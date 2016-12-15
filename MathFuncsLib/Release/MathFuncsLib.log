@@ -1,0 +1,9 @@
+﻿  MyMathFuncs.cpp
+MyMathFuncs.cpp(270): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+MyMathFuncs.cpp(287): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+MyMathFuncs.cpp(302): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+MyMathFuncs.cpp(390): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+MyMathFuncs.cpp(415): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+MyMathFuncs.cpp(415): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+MyMathFuncs.cpp(440): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  MathFuncsLib.vcxproj -> C:\Users\reginald.reed\Documents\GitHub\Static Library\Release\MathFuncsLib.lib
